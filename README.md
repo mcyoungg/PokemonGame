@@ -17,8 +17,8 @@ by defeating all the gyms without having your Pokemon faint. You can compare gam
 other students by seeing who completes all the gyms the fastest.
 
 New features:
-The inclusion of a Wild Pokemon. Wild Pokemon are
+* The inclusion of a Wild Pokemon. Wild Pokemon are
 on the game board and if a Trainer comes “into contact” with them, they lose
 health points faster twice as fast. They will follow the player until it faints, on its own. 
-Arrays were replaced with STL linked lists. 
-Added Exceptions
+* Arrays were replaced with STL linked lists. 
+* Added Exceptions.
